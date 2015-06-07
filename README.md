@@ -9,12 +9,12 @@ Instructions
 * Maybe some more stuff.
 * Yep, a little more stuff.
 
-Author: Floyd Diebel (fdiebel)
+Author
 --------
-<http://emrl.com/>  
+Floyd Diebel (fdiebel)
+<http://emrl.com/>
+<https://www.facebook.com/advertisingisnotacrime> 
 
 License
 --------
 Creative Commons - Attribution - Share Alike license.  
-
-
